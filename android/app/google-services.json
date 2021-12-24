@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3406260862",
+    "project_id": "flutter-firebase-rtdb",
+    "storage_bucket": "flutter-firebase-rtdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3406260862:android:cdc0dd39e948db4a2bc62f",
+        "android_client_info": {
+          "package_name": "com.chicagoworks.flutter_firebase_rtdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3406260862-rumish9i7nbpo8bscbsbu1m57lof6lq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOfvTIJY1gPLw-hVyIaXGcxIaqQPo3gww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3406260862-rumish9i7nbpo8bscbsbu1m57lof6lq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
